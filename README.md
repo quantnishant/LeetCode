@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/quantnishant/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2684-determine-the-winner-of-a-bowling-game](https://github.com/quantnishant/LeetCode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 ## Stack
 |  |
 | ------- |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/quantnishant/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Simulation
+|  |
+| ------- |
+| [2684-determine-the-winner-of-a-bowling-game](https://github.com/quantnishant/LeetCode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 <!---LeetCode Topics End-->
