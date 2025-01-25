@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/quantnishant/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/quantnishant/LeetCode/tree/master/0263-ugly-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/quantnishant/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/quantnishant/LeetCode/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 ## Recursion
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/quantnishant/LeetCode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
+## Greedy
+|  |
+| ------- |
+| [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/quantnishant/LeetCode/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 <!---LeetCode Topics End-->
