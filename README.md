@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/quantnishant/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/quantnishant/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/quantnishant/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/quantnishant/LeetCode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 ## Stack
 |  |
@@ -77,4 +78,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/quantnishant/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/quantnishant/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Counting
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/quantnishant/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
