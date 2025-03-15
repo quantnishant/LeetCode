@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/quantnishant/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/quantnishant/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/quantnishant/LeetCode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 ## Stack
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/quantnishant/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/quantnishant/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/quantnishant/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Binary Search
+|  |
+| ------- |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/quantnishant/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 <!---LeetCode Topics End-->
