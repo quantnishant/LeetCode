@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/quantnishant/LeetCode/tree/master/0164-maximum-gap) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/quantnishant/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/quantnishant/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/quantnishant/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -83,4 +84,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/quantnishant/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Sorting
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/quantnishant/LeetCode/tree/master/0164-maximum-gap) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/quantnishant/LeetCode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/quantnishant/LeetCode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
