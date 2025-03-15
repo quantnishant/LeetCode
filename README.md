@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/quantnishant/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/quantnishant/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/quantnishant/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/quantnishant/LeetCode/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/quantnishant/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/quantnishant/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/quantnishant/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/quantnishant/LeetCode/tree/master/0229-majority-element-ii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/quantnishant/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/quantnishant/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/quantnishant/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/quantnishant/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/quantnishant/LeetCode/tree/master/0229-majority-element-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/quantnishant/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/quantnishant/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/quantnishant/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/quantnishant/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/quantnishant/LeetCode/tree/master/0229-majority-element-ii) |
 ## Bucket Sort
 |  |
 | ------- |
