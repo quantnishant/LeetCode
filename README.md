@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/quantnishant/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/quantnishant/LeetCode/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/quantnishant/LeetCode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/quantnishant/LeetCode/tree/master/0169-majority-element) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/quantnishant/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/quantnishant/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/quantnishant/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -83,11 +85,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/quantnishant/LeetCode/tree/master/0169-majority-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/quantnishant/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/quantnishant/LeetCode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/quantnishant/LeetCode/tree/master/0169-majority-element) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -96,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/quantnishant/LeetCode/tree/master/0164-maximum-gap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/quantnishant/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
