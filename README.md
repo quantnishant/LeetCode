@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/quantnishant/LeetCode/tree/master/0507-perfect-number) |
 | [1279-prime-arrangements](https://github.com/quantnishant/LeetCode/tree/master/1279-prime-arrangements) |
 | [2032-largest-odd-number-in-string](https://github.com/quantnishant/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2083-three-divisors](https://github.com/quantnishant/LeetCode/tree/master/2083-three-divisors) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/quantnishant/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/quantnishant/LeetCode/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 ## Recursion
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/quantnishant/LeetCode/tree/master/2083-three-divisors) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/quantnishant/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Simulation
 |  |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/quantnishant/LeetCode/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/quantnishant/LeetCode/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
