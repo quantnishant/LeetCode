@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/quantnishant/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0164-maximum-gap](https://github.com/quantnishant/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/quantnishant/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/quantnishant/LeetCode/tree/master/0217-contains-duplicate) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/quantnishant/LeetCode/tree/master/0014-longest-common-prefix) |
 | [2032-largest-odd-number-in-string](https://github.com/quantnishant/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Database
 |  |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2083-three-divisors](https://github.com/quantnishant/LeetCode/tree/master/2083-three-divisors) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/quantnishant/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/quantnishant/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
