@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/quantnishant/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/quantnishant/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/quantnishant/LeetCode/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/quantnishant/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/quantnishant/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/quantnishant/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/quantnishant/LeetCode/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/quantnishant/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/quantnishant/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/quantnishant/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/quantnishant/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/quantnishant/LeetCode/tree/master/0496-next-greater-element-i) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/quantnishant/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Number Theory
 |  |
@@ -148,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/quantnishant/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/quantnishant/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
