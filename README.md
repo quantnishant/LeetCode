@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/quantnishant/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/quantnishant/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/quantnishant/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/quantnishant/LeetCode/tree/master/0217-contains-duplicate) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/quantnishant/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/quantnishant/LeetCode/tree/master/0014-longest-common-prefix) |
 | [2032-largest-odd-number-in-string](https://github.com/quantnishant/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Database
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/quantnishant/LeetCode/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/quantnishant/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
