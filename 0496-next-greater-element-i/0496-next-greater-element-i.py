@@ -1,9 +1,10 @@
 class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
         result = []
+        index_map = {val : i for i, val in enumerate(nums2)}
         for number in nums1:
             ans = -1
-            idx_nums2 = nums2.index(number)
+            idx_nums2 = index_map.get(number)
             for j in range(idx_nums2 + 1 , len(nums2)):
                 if nums2[j] > number:
                     ans = nums2[j]
