@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/quantnishant/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/quantnishant/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/quantnishant/LeetCode/tree/master/0263-ugly-number) |
+| [0470-implement-rand10-using-rand7](https://github.com/quantnishant/LeetCode/tree/master/0470-implement-rand10-using-rand7) |
 | [0507-perfect-number](https://github.com/quantnishant/LeetCode/tree/master/0507-perfect-number) |
 | [1279-prime-arrangements](https://github.com/quantnishant/LeetCode/tree/master/1279-prime-arrangements) |
 | [2032-largest-odd-number-in-string](https://github.com/quantnishant/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -163,4 +164,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/quantnishant/LeetCode/tree/master/0496-next-greater-element-i) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/quantnishant/LeetCode/tree/master/0470-implement-rand10-using-rand7) |
+## Randomized
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/quantnishant/LeetCode/tree/master/0470-implement-rand10-using-rand7) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/quantnishant/LeetCode/tree/master/0470-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
