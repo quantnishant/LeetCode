@@ -5,4 +5,4 @@ class Solution:
             if target - nums[i] not in temp:
                 temp[nums[i]] = i
             elif target - nums[i] in temp:
-                return [ temp[target - nums[i]], i]
+                return [temp[target - nums[i]], i]
