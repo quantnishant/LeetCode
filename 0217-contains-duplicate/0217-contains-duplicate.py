@@ -1,8 +1,9 @@
+from collections import Counter
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        freq_table = {}
+        counts = Counter(nums)
         for num in nums:
-            freq_table[num] = freq_table.get(num, 0) + 1
-            if freq_table[num] > 1:
+            if counts[num] > 1:
                 return True
         return False
+        
