@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/quantnishant/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/quantnishant/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/quantnishant/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/quantnishant/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/quantnishant/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/quantnishant/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/quantnishant/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/quantnishant/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/quantnishant/LeetCode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/quantnishant/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/quantnishant/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/quantnishant/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/quantnishant/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/quantnishant/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/quantnishant/LeetCode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/quantnishant/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/quantnishant/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/quantnishant/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
@@ -143,10 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/quantnishant/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/quantnishant/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/quantnishant/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/quantnishant/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/quantnishant/LeetCode/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/quantnishant/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
@@ -155,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/quantnishant/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/quantnishant/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Enumeration
 |  |
 | ------- |
@@ -188,4 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/quantnishant/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/quantnishant/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/quantnishant/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
