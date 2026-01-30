@@ -54,12 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/quantnishant/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/quantnishant/LeetCode/tree/master/0202-happy-number) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/quantnishant/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/quantnishant/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/quantnishant/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/quantnishant/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/quantnishant/LeetCode/tree/master/0056-merge-intervals) |
 | [0136-single-number](https://github.com/quantnishant/LeetCode/tree/master/0136-single-number) |
