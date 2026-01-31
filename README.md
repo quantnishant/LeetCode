@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/quantnishant/LeetCode/tree/master/0263-ugly-number) |
 | [0470-implement-rand10-using-rand7](https://github.com/quantnishant/LeetCode/tree/master/0470-implement-rand10-using-rand7) |
 | [0507-perfect-number](https://github.com/quantnishant/LeetCode/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/quantnishant/LeetCode/tree/master/0509-fibonacci-number) |
 | [1279-prime-arrangements](https://github.com/quantnishant/LeetCode/tree/master/1279-prime-arrangements) |
 | [2032-largest-odd-number-in-string](https://github.com/quantnishant/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2083-three-divisors](https://github.com/quantnishant/LeetCode/tree/master/2083-three-divisors) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/quantnishant/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/quantnishant/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/quantnishant/LeetCode/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/quantnishant/LeetCode/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -207,4 +209,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/quantnishant/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/quantnishant/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/quantnishant/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
