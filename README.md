@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/quantnishant/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/quantnishant/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/quantnishant/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/quantnishant/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/quantnishant/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/quantnishant/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/quantnishant/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/quantnishant/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/quantnishant/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/quantnishant/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/quantnishant/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Bucket Sort
 |  |
 | ------- |
