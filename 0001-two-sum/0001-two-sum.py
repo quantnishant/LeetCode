@@ -4,5 +4,5 @@ class Solution:
         for i in range(len(nums)):
             if target - nums[i] not in temp:
                 temp[nums[i]] = i
-            elif target - nums[i] in temp:
+            elif target -nums[i] in temp:
                 return [temp[target - nums[i]], i]
